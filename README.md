@@ -1,13 +1,7 @@
-## Hi there 👋
-I am Dhruva
-Aspiring Software Engineer | Learning C++ & Data Structures
-
-About Me
 Hi! I'm Dhruva, currently working as an Operations Analyst and transitioning into software engineering. I have a strong analytical mindset from my experience in banking and risk analysis, and I’m now applying those skills to coding.
 
 I’m currently learning C++ with Data Structures & Algorithms (DSA) and building projects to showcase my skills. My goal is to break into the tech industry.
 
-Tech Stack & Skills
 Languages:
 C++ (Learning)
 Python (Basic)
