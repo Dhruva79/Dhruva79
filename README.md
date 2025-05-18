@@ -13,7 +13,7 @@ Problem Solving
 Software Development
 
 Projects
-Smart Task Manager (C++) – (Coming Soon)
+Smart Task Manager (C++) 
 A personal project to apply C++ and DSA concepts
 Will include features like task prioritization, reminders, and categorization
 
@@ -24,7 +24,7 @@ Contains solved problems, notes, and concepts
 Let's Connect!
 Email: dhruva79b@gmail.com
 LinkedIn: linkedin.com/in/dhruvakumar
-🌐 Portfolio (Coming Soon!)
+🌐 Portfolio 
 
 I’m always open to learning, collaborating, and connecting with fellow developers. Feel free to reach out! 
 
